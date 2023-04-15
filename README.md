@@ -2,9 +2,9 @@
 
 #### Table Of Contents
 
-  [How to Install](# How to Install)
+  * [How to Install](# How to Install)
   
-  [Usage](# Usage)
+  * [Usage](# Usage)
   
   
  # How to Install
