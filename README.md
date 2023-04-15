@@ -1,8 +1,8 @@
 # E-Commerce-Back-End
 
 # Table Of Contents
-  # How to Install
-  # Usage
+  *How to Install
+  *Usage
   
   
  # How to Install
