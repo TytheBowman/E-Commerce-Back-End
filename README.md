@@ -1,11 +1,9 @@
 # E-Commerce-Back-End
 
-#### Table Of Contents
-
-  * [How to Install](# How to Install)
-  
-  * [Usage](# Usage)
-  
+Table of Contents
+=================
+* [How to install](#How-to-install)
+* [Usage](#usage)
   
  # How to Install
  
