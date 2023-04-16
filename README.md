@@ -21,3 +21,6 @@ Table of Contents
  
   Please start the app at the terminal. You should start the server using node.server. 
   
+  Video of terminal process
+https://user-images.githubusercontent.com/88301291/232259773-54783925-15a2-4d7a-b4a7-4dda0f4129d2.mov
+
